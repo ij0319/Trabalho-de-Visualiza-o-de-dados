@@ -1,0 +1,4 @@
+country,lockdown_start,cases_pre,cases_post,cases_change_pct,deaths_pre,deaths_post,deaths_change_pct
+United Kingdom,2020-03-23,1.48,48.44,3171.72,0.06,10.8,19305.99
+Brazil,2020-03-21,0.01,3.74,30200.0,0.0,0.22,
+Sweden,2021-03-18,347.74,500.17,43.83,2.17,1.82,-16.29
